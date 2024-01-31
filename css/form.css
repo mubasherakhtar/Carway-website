@@ -1,0 +1,55 @@
+.Form{
+background-image: url(/images/contact.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+justify-content: center;
+/* align-items: center; */
+display: flex;
+margin-bottom: 100px;
+}
+.form{
+
+    margin: 30px;
+    padding: 30px;
+padding-left: 15%;
+    width: 100vh;
+}
+#heading{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+     margin: 45px;
+     font-family: 'Poppins', sans-serif;
+     position: relative;
+    
+}
+label{
+    font-size: 25px;
+
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+.button{
+    border: 1px solid white;
+    right: 20px;
+    height: 70px;
+    width: 70px;
+    border-radius: 180px;
+    background-image: url(/images/whatsapp.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    align-items: center;
+    justify-content: center;
+   
+
+    font-size: 15px ;
+    position: fixed;
+    
+    /* background-color: #318f3a; */
+    letter-spacing: .05rem;
+     bottom: 100px;
+    
+}
